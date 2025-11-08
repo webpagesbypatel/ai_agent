@@ -387,7 +387,9 @@ For questions, issues, or suggestions, please open an issue on GitHub.
 
 ---
 
-<img width="968" height="1919" alt="Screenshot 2025-11-08 165106" src="https://github.com/user-attachments/assets/e9e9c023-b110-4393-8de5-0fbc135afa89" />
+<img width="1919" height="968" alt="Screenshot 2025-11-08 165106" src="https://github.com/user-attachments/assets/b09e4c0f-d292-42b2-b949-78bbb1ff8b9b" />
+
+
 
 
 
